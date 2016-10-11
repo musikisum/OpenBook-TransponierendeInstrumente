@@ -1,0 +1,13 @@
+images/privat/
+images/*.sib
+Korrekturen/
+
+logo_musik-openbook.de.sla
+Kaiser_trInstrumente_2016-10-07_release-mAnschnitt.pdf
+Kaiser_trInstrumente_2016-10-07_release-oAnschnitt.pdf
+
+
+# Office Temp Files
+~$*
+# vim Temp Files
+*~

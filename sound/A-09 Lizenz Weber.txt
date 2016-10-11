@@ -1,0 +1,22 @@
+album: CARL MARIA VON WEBER. DER FREISCHÜTZ
+opera: Der Freischütz. Romantische Oper in 3 Akten
+opera ordinamento: Freischütz (Der). Romantische Oper in 3 Akten
+autore: Carl Maria : von Weber
+artista:
+Bohme, Kurt (ruolo: Basso; Un eremita)
+Grummer, Elizabeth (ruolo: Soprano; Agathe, figlia di Kuno)
+Hopf, Hans (ruolo: Tenore; Max, secondo cacciatore)
+Horn, Heiner (ruolo: Basso; Kuno, guardia forestale del principe)
+Kind, Johann, Friedrich (ruolo: Autore del libretto)
+Kleiber, Erich (ruolo: Direttore)
+Marschner, Kurt (ruolo: Baritono; Kilian, un ricco contadino)
+Poell, Alfred (ruolo: Baritono; Ottokar, principe boemo)
+Proebstl, Max (ruolo: Basso; Kaspar, primo cacciatore)
+Streich, Rita (ruolo: Soprano; Ännchen, giovane parente di Agathe)
+Weber, Carl Maria von (ruolo: Compositore)
+Westdeutschen Rundfunk Chor (ruolo: Coro)
+Westdeutschen Rundfunk Sinfonieorchrster (ruolo: Orchestra)
+cura: Marco Calvo, http://www.marcocalvo.it/
+Dario Giannozzi
+licenza: Creative Commons "Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale", http://creativecommons.org/licenses/by-nc-sa/4.0/
+Donwload: http://www.liberliber.it/mediateca/musica/w/weber/der_freischutz/ke/mp3/weber_der_frei_ke_09_nein_l_etc.mp3
